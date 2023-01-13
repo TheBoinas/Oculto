@@ -1,0 +1,103 @@
+a:hover{
+    background-color:(255, 218, 185);
+}
+
+img{
+    float: left;
+}
+
+ul {
+
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #ffc69b;
+    
+  }
+  
+  li {
+    float: left;
+    
+ }
+  
+ a li {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 20px 20px;
+    text-decoration-line: var(--bg-body);
+    
+  }
+  
+  
+header .logo{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    margin-top: 35px;
+}
+
+.section-2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: 50px;
+    margin-top: 50px;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+.section-2 h2{
+    background-color: #ffc69b;
+    display: inline-block;
+    padding: 15px 50px;
+    border-radius: 50px;
+    color: black;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-decoration: none;
+}
+.card{
+	flex-direction: column;
+	display: flex;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.last{
+	justify-content: space-between;
+	display: flex;
+	flex-direction: line;
+	margin-left: 35%;
+	margin-right: 35%;
+}
+
+.last img{
+    width: 320px;
+    height: 320px;
+    border-radius: 20px 20px 20px 20px;
+}
+
+.last:hover img{
+	box-shadow: 7px 7px 10px rgb(0 0 0 / 51%);
+}
+
+.card img{
+    width: 320px;
+    height: 320px;
+    border-radius: 20px 20px 20px 20px;
+}
+
+.card:hover img{
+	box-shadow: 7px 7px 10px rgb(0 0 0 / 51%);
+}
+
+.cards{
+	justify-content: space-between;
+	display: flex;
+	flex-direction: line;	
+}
