@@ -1,0 +1,88 @@
+<!DOCTYPE >
+<html>
+	<head>
+    <link rel="icon" href="./img/logo.jpg" type="image/icon type">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href="./css/chuu.css" rel="stylesheet">
+    <title>Sebastião</title>
+	</head>
+
+	<body style="background-color:rgb(255, 218, 185)">
+	
+	<header>
+
+        <div class="cabecalho">
+
+            <ul>
+                <a href="home.html" ><img src="./img/logo.jpg"  width="60px" height="60px"><li>Home</li></a>
+                
+            </div>
+            </ul>
+
+        </div>
+
+    </header>
+	
+	 <section class="section-2 container"> 
+        <h2>Musicas Mais Populares:</h2>
+
+		<div class="cards">
+            <a href="https://open.spotify.com/track/7sqtyHfTHtkLtnxuQ3ttvo?si=6bca03071d594886"><div class="card">
+                    <img src="./img/DearMyWinter.png">	
+					<p>Dear My Winter</p></div>
+				</a>
+				
+			<a href="https://open.spotify.com/track/7el09AiwrCGGZW8rsSvbc1?si=e4bd761adc844351"><div class="card">
+                    <img src="./img/Lullaby.png">	
+					<p>Lullaby</p>
+				</div></a>
+				
+			<a href="https://open.spotify.com/track/0yfhVon5XPlCRYNihFIUwu?si=74e9d37039a24173"><div class="card">
+                    <img src="./img/One and a Half.png">	
+					<p>One And a Half</p>
+				</div></a>
+			</div>
+			
+			<div class="cards">
+            <a href="https://open.spotify.com/track/40wyDhO974VOe491zfVLbC?si=2a34711d3c9043de"><div class="card">
+                    <img src="./img/Confession.png">	
+					<p>Confession</p></div>
+				</a>
+				
+			<a href="https://open.spotify.com/track/342lZcrcYRL1kN3a87g1ay?si=4bb4423eb45b4fc1"><div class="card">
+                    <img src="./img/Wolrd is One.png">	
+					<p>Wolrd is One</p>
+				</div></a>
+				
+			<a href="https://open.spotify.com/track/30tO1TPD9btGJr8Rl1lV1N?si=5a7dbe30ecdd43c8"><div class="card">
+                    <img src="./img/Spring Flower.png">	
+					<p>Spring Flower</p>
+				</div></a>
+			</div>
+			
+			<div class="cards">
+            <a href="https://open.spotify.com/track/1dMrUkPtYB0nf0UiHdDoye?si=66eea079681348dd"><div class="card">
+                    <img src="./img/Hello.png">	
+					<p>Hello</p>
+				</div></a>
+				
+			<a href="https://open.spotify.com/track/5eYEY02R2PslTPTDSQm0h2?si=c42d152b423c47b3"><div class="card">
+                    <img src="./img/Loving u.png">	
+					<p>Loving U</p>
+				</div></a>
+				
+			<a href="https://open.spotify.com/track/5kFZ1HUfcWbcaVLS7gkLhL?si=44b17d6a4778429f"><div class="card">
+                    <img src="./img/Brunch.png">	
+					<p>Brunch</p>
+				</div></a>
+			</div>
+			
+			<div class="last">
+			<a href="https://open.spotify.com/track/3uu4ZxgC6uwtb8gjySdyuq?si=8e09c59106d945b1"><div class="ll">
+			<img src="./img/back in time.png">
+			<p>Back In Time</p>
+			</div></a>
+			</div>
+	</body>
+</html>
